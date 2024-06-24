@@ -4,20 +4,20 @@
 </div>
 
 
-<!-- 2. 自分の名前を変更 -->
+<!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
 - 👩‍🎓 I'm a student engineer who loves web development.  
 - 🌱 I’m currently learning go!  
 - 📫 How to reach me: [Twitter](https://twitter.com/home)  
-
 <br>
+
 
 <!-- 3. 好きな技術スタックに変更 -->
 ## 🌱 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,figma,python,fastapi,go,docker,terraform,aws,gcp" />
-
 <br>
+
 
 <!-- 4. GitHub ユーザー名を変更, 2箇所 -->
 ## 🏃‍♀️ Activities
