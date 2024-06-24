@@ -5,11 +5,11 @@
 
 
 <!-- 2. 自分の名前を変更 -->
-# Hi, I'm [username] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">☺️
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-👩‍🎓 I am a student engineer who loves web development.  
-🌱 I’m currently learning go!  
-📮 How to reach me: [Twitter](https://twitter.com/home)  
+- 👩‍🎓 I'm a student engineer who loves web development.  
+- 🌱 I’m currently learning go!  
+- 📫 How to reach me: [Twitter](https://twitter.com/home)  
 
 <br>
 
@@ -19,7 +19,7 @@
 
 <br>
 
-<!-- 4. GitHub ユーザー名を変更 -->
+<!-- 4. GitHub ユーザー名を変更, 2箇所 -->
 ## 🏃‍♀️ Activities
 <div align="left"> 
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=NonokaM&theme=vue-dark&layout=compact" />
